@@ -1,7 +1,7 @@
 .Rhistory
 .Rapp.history
 .RData
-data/
-.rds
-.tsv
+Data/
+.csv
 .Rproj.user
+ipynb_checkpoints/
